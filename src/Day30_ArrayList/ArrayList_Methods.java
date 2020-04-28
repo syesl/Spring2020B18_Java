@@ -14,7 +14,7 @@ public class ArrayList_Methods {
         // list1.add(7,10) // index out of bound
 
         list1.set(3,9);  // new object take the old one place...
-        // set(index,object):replaces the original object at given
+        // set(index,object):replaces the original object at given object replacing.
         // index with the new given object replacing.
 
         System.out.println(list1);
