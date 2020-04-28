@@ -1,4 +1,4 @@
-package day05_Unary_ShortandOperators;
+package Day05_Unary_ShortandOperators;
 
 public class PrimitiveCastings {
     public static void main(String[] args) {
