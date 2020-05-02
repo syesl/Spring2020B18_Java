@@ -12,7 +12,8 @@ public class List_Practice {
         shoppingList.add( "Bread" );   // size: 3
         shoppingList.add( "Toilet Paper" );  // size: 4
         shoppingList.add( "Eggs" );  // size: 5
-
+// we don't add anything on arraylist. Array size is fixed.
+        // we need to pay attention what is the data type.
         System.out.println(shoppingList);
 
 

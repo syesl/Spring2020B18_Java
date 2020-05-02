@@ -25,6 +25,8 @@ public class List_Practice2 {
         list.add(-800);
 
         //  int maximum = Integer.MIN_VALUE;
+        // bizim bir numarayla karsilastirmamiz lazim.ama hani numarayla buna bagli karsilastirmamiz lazim
+        // neye veya kime gore
         int maximum = list.get(0);
         for(int i = 0; i < list.size(); i++){
 

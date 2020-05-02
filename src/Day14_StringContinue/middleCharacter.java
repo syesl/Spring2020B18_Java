@@ -22,7 +22,7 @@ public class middleCharacter {
 
     if (totalChars % 2 !=0) {
 
-        middleCharacter = middleCharacter + word.charAt(middleNumber);
+        middleCharacter = middleCharacter+ word.charAt(middleNumber);
     } else {
         middleCharacter = middleCharacter+ word.charAt(middleNumber-1)+word.charAt(middleNumber);
 
